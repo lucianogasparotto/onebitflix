@@ -1,0 +1,1 @@
+Projeto de um Clone DO netflix OneBitFlix do curso FullStack da OneBitCode, guiado pelos instrutores do Curso.
